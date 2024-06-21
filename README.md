@@ -4,17 +4,17 @@
   <img width="207" alt="Screenshot 2024-06-21 at 11 39 01" src="https://github.com/leivinaslp/OBCT-Bangkit/assets/162125834/7cb95fed-cd2c-44be-b86d-902d2b523f44">
 </p>
 
-<div style="text-align: justify">
+<p style="text-align: justify">
     The prevalence of obesity in Indonesia has shown a significant upward trend over the past decade, despite Indonesia not being among the countries with the highest prevalence in the world. Deputy Minister of Health of Indonesia, Prof. Dante Saksono Harbuwono, SpPD-KEMD, PhD, revealed that according to the 2018 Basic Health Research Survey (Riskesdas), one in three people in Indonesia is obese.
-</div>
+</p>
 
-<div style="text-align: justify">
+<p style="text-align: justify">
 Given this alarming trend, it is crucial to have tools that can effectively identify and manage obesity risk among the population. Our application, OBCT, is designed to meet this need. OBCT utilizes 16 different features to provide a comprehensive analysis of an individual's risk of obesity. These features include variables such as age, height, weight, eating habits, physical activity, and lifestyle.
 </div>
 
-<div style="text-align: justify">
+<p style="text-align: justify">
 Furthermore, OBCT can be an invaluable tool for healthcare professionals. It provides them with detailed insights into their patients' lifestyle and health behaviors, enabling them to create tailored intervention plans. In a country where one in three people is at risk of obesity, OBCT can play a vital role in reversing this trend and promoting a healthier population.
-</div>
+</p>
 
 ## Capstone Project Team Members:
 
