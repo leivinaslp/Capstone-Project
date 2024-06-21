@@ -1,7 +1,7 @@
 # OBCT
 
 <p align="center">
-  <img width="330" alt="Screenshot 2024-06-21 at 11 29 33" src="https://github.com/leivinaslp/OBCT-Bangkit/assets/162125834/1c995f99-cc40-4aa0-a72e-9c5faf6f5e29" =150x150>
+  <img width="207" alt="Screenshot 2024-06-21 at 11 39 01" src="https://github.com/leivinaslp/OBCT-Bangkit/assets/162125834/7cb95fed-cd2c-44be-b86d-902d2b523f44">
 </p>
 
 <p style="text-align: justify;">
